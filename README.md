@@ -2,7 +2,7 @@
 
 ### Description
 
-An exercise tracker that allows you to create a new user and submit exercise entries.
+An exercise tracker that allows you to create a new user, submit exercise entries and collect data.
 
 ### Usage:
 
